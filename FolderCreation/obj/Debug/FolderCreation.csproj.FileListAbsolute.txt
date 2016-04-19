@@ -1,0 +1,9 @@
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\bin\Debug\FolderCreation.exe.config
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\bin\Debug\FolderCreation.exe
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\bin\Debug\FolderCreation.pdb
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\obj\Debug\FolderCreation.csprojResolveAssemblyReference.cache
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\obj\Debug\FolderCreation.Form1.resources
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\obj\Debug\FolderCreation.Properties.Resources.resources
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\obj\Debug\FolderCreation.csproj.GenerateResource.Cache
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\obj\Debug\FolderCreation.exe
+c:\users\juliusd\documents\visual studio 2015\Projects\FolderCreation\FolderCreation\obj\Debug\FolderCreation.pdb
